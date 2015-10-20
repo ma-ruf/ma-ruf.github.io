@@ -1,13 +1,3 @@
-exclude: [ _posts/source ]
-highlighter: pygments
-safe: false
-paginate: 6
-
-tag_page_layout: tag_page
-tag_page_dir: tag
-
-markdown: Pandoc
-
 author:
   name: Marco Rizzoli
   givenName: Marco
